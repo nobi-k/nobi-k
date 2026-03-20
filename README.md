@@ -26,7 +26,7 @@
 | [VibeHost](https://hostingvibe.ru) | Хостинг-платформа — полный цикл от лендинга до деплоя |
 | [LuckStat](https://luckstat.ru) | Аналитика Telegram-каналов с платёжками |
 | [DndChat](https://dndchat.ru) | D&D чат-платформа |
-| [Proto](https://proto.hostingvibe.ru) | Конструктор прототипов сайтов |
+| [Proto](https://proto.smolnikov.su) | Конструктор прототипов сайтов |
 
 ---
 
