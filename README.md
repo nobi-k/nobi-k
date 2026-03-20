@@ -11,10 +11,6 @@
 
 ---
 
-#### 🛠 Мой стек (то, с чем вайбкодится лучше всего)
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,python,docker&theme=dark" />
-
 #### 🤖 AI-инструменты
 
 ![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -28,10 +24,9 @@
 | Проект | Что это |
 |--------|---------|
 | [VibeHost](https://hostingvibe.ru) | Хостинг-платформа — полный цикл от лендинга до деплоя |
-| [Otlik24](https://github.com/nobi-k/Otlkik24-rip) | Автоматизация откликов на HH.ru |
-| [LuckStat](https://github.com/nobi-k/lusckstat) | Аналитика Telegram-каналов с платёжками |
-| [DndChat](https://github.com/nobi-k/DndChat) | D&D чат-платформа |
-| [Proto](https://github.com/nobi-k/proto) | Конструктор прототипов сайтов |
+| [LuckStat](https://luckstat.ru) | Аналитика Telegram-каналов с платёжками |
+| [DndChat](https://dndchat.ru) | D&D чат-платформа |
+| [Proto](https://proto.hostingvibe.ru) | Конструктор прототипов сайтов |
 
 ---
 
